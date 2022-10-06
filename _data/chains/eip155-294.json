@@ -1,26 +1,26 @@
 {
-    "name": "SesaChain Ferry Testnet",
+    "name": "Sesa lakenona Testnet",
     "chain": "SESA",
     "rpc": [
-      "https://ferry.sesachain.com"
+      "https://lakenona.sesa.network"
     ],
     "faucets": [
-        "https://ferryfaucet.sesachain.com"
+        "https://lnfaucet.sesa.network"
     ],
     "nativeCurrency": {
-      "name": "SESA FERRY",
+      "name": "SESA",
       "symbol": "SESA",
       "decimals": 18
     },
-    "infoURL": "https://www.sesachain.com",
-    "shortName": "SesaChain Ferry Testnet",
+    "infoURL": "https://www.sesa.network",
+    "shortName": "lakenona",
     "chainId": 294,
     "networkId": 294,
-    "icon": "sesachain",
+    "icon": "sesa",
     "explorers": [{
-      "name": "SesaScan Ferry Testnet",
-      "url": "https://ferry.sesascan.com",
-      "icon": "sesa",
+      "name": "SesaScan lakenona Testnet",
+      "url": "https://lakenona.sesascan.com",
+      "icon": "sesascan",
       "standard": "EIP3091"
     }]
   }
