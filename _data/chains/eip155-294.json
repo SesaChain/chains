@@ -1,11 +1,11 @@
 {
-    "name": "Sesa lakenona Testnet",
+    "name": "Sesa Lauderdale Testnet",
     "chain": "SESA",
     "rpc": [
-      "https://lakenona.sesa.network"
+      "https://lauderdale.sesa.network"
     ],
     "faucets": [
-        "https://lnfaucet.sesa.network"
+        "https://s.sesa.network"
     ],
     "nativeCurrency": {
       "name": "SESA",
@@ -13,13 +13,13 @@
       "decimals": 18
     },
     "infoURL": "https://www.sesa.network",
-    "shortName": "lakenona",
+    "shortName": "lauderdale",
     "chainId": 294,
     "networkId": 294,
     "icon": "sesa",
     "explorers": [{
-      "name": "SesaScan lakenona Testnet",
-      "url": "https://lakenona.sesascan.com",
+      "name": "SesaScan lauderdale Testnet",
+      "url": "https://lauderdale.sesascan.com",
       "icon": "sesascan",
       "standard": "EIP3091"
     }]
